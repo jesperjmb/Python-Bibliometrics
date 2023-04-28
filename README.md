@@ -1,2 +1,2 @@
 # Python-Bibliometrics
-A repository of Python scripts to calculate and analyse various bibliometrics
+A repository of Python scripts to calculate and analyse various bibliometrics.
